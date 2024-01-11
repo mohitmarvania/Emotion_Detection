@@ -24,3 +24,6 @@ The Live Camera Feedback System is a Deep Learning-based project designed for ca
    - The system automatically calculates emotion percentages and records them in an Excel sheet.
 4. *Excel Sheet Output:*
    - View the generated Excel sheet for comprehensive feedback, including faculty name, date, time, and dominant emotion.
+
+**Contribution Guidelines**
+This project is created by two computer science students which are myself and my classmate [Ruhi_22](https://github.com/Ruhi-22)
